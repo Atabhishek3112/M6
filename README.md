@@ -236,7 +236,7 @@ Step 8: End the program.
 
 ## PROGRAM
 
-```c
+```
 #include <stdio.h>
 
 struct student {
